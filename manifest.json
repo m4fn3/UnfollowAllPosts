@@ -1,0 +1,12 @@
+{
+   "name": "UnfollowAllPosts",
+   "version": "1.0.0",
+   "description": "Unfollow all posts/threads with one click",
+   "authors": [
+      {
+         "name": "mafu",
+         "id": "519760564755365888"
+      }
+   ],
+   "color": "#ffe0c1"
+}
